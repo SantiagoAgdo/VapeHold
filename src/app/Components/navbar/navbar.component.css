@@ -1,0 +1,49 @@
+@media(min-width: 1080px ){
+    .navbarFixes{
+        margin-top: 1rem;
+    
+    }
+    .optionNav{
+        margin-right: 3rem;
+        color: white;
+        text-decoration: none;
+    }
+    .optionNav:hover{
+        color: black;
+    }
+    .optionNavLast:hover{
+        color: black;
+    }
+    .optionNavLeft{
+        margin-left: 2rem;
+        background-color: wheat;
+        border-radius: 10%;
+        
+    }
+    .optioncenter{                                                                                                                              
+        font-size: 17px;
+        padding: 10px;
+    }
+
+}
+@media(min-width: 530){
+    .navbarFixes{
+        margin-top: 1rem;
+    
+    }
+    .optionNav{
+        margin-right: 3rem;
+        color: red;
+        text-decoration: none;
+    }
+    .optionNavLeft{
+        margin-left: 2rem;
+        background-color: wheat;
+        border-radius: 10%;
+    
+    }
+    .optioncenter{
+        font-size: 17px;
+        padding: 10px;
+    }
+}
